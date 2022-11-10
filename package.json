@@ -19,9 +19,10 @@
   },
   "homepage": "https://github.com/OpenTechConsult/security-example#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "helmet": "^6.0.0",
     "passport": "^0.6.0",
-    "passport-oauth2": "^1.6.1"
+    "passport-google-oauth20": "^2.0.0"
   }
 }

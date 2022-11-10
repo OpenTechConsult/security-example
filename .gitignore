@@ -105,3 +105,4 @@ dist
 
 # OAuth credentials
 oauth.txt
+client_secret_.json
